@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">English Droid</string>
+
+
+    <string name="the_principal_part_of_verb_be">The principal part of verb ‘be’</string>
+    <string name="use_of_verbs_be_in_sentence">Use of verbs ‘be’ in sentence</string>
+    <string name="present_tense_am_is_are">1 Present Tense ( am / is / are )</string>
+    <string name="i_am_a_teacher">I am a teacher .</string>
+    <string name="she_is_a_student">She is a student.</string>
+    <string name="am_i_fool">Am I fool?</string>
+    <string name="is_she_a_student">Is she a student?</string>
+    <string name="i_am_not_a_teacher">I am not a teacher.</string>
+    <string name="she_is_not_isn_t_a_student">She is not (isn’t) a student.</string>
+    <string name="am_i_not_a_teacher">Am I not a teacher ?</string>
+    <string name="isn_t_she_a_student">Isn’t she a student ?</string>
+    <string name="_2_past_tense">2 Past Tense ( was / were )</string>
+    <string name="i_was_a_member">I was a member.</string>
+    <string name="she_was_a_teacher">She was a teacher.</string>
+    <string name="was_i_a_member">Was I a member ?</string>
+    <string name="was_she_a_teacher">Was she a teacher?</string>
+    <string name="i_was_not_wasn_t_a_member">I was not ( wasn’t ) a member.</string>
+    <string name="he_was_not_wasn_t_a_teacher">He was not ( wasn’t ) a teacher.</string>
+    <string name="wasn_t_i_a_member">Wasn’t I a member ?</string>
+    <string name="wasn_t_he_a_teacher">Wasn’t he a teacher ?</string>
+    <string name="_3_future_tense_will_be">3 Future Tense ( will be )</string>
+    <string name="he_will_be_a_member_of_parliament">He will be a member of parliament.</string>
+    <string name="i_will_be_a_director">I will be a director.</string>
+    <string name="will_he_be_a_member_of_parliament">Will he be a member of parliament ?</string>
+    <string name="will_you_be_a_director">Will you be a director ?</string>
+    <string name="he_will_not_won_t_be_a_member_of_parliament">He will not ( won’t ) be a member of parliament.</string>
+    <string name="i_will_not_won_t_be_a_director">I will not ( won’t ) be a director.</string>
+    <string name="won_t_he_be_a_member_of_parliament">Won’t he be a member of parliament ?</string>
+    <string name="won_t_you_be_a_director">Won’t you be a director ?</string>
+    <string name="_4_present_perfect_tense_has_have_been">4 Present Perfect Tense ( has / have been )</string>
+    <string name="he_has_been_a_teacher">He has been a teacher.</string>
+    <string name="they_have_been_members">They have been members.</string>
+    <string name="has_he_been_a_teacher">Has he been a teacher ?</string>
+    <string name="have_they_been_members">Have they been members ?</string>
+    <string name="he_has_not_hasn_t_been_a_teacher">He has not ( hasn’t ) been a teacher.</string>
+    <string name="they_have_not_haven_t_been_members">They have not (haven’t ) been members.</string>
+    <string name="hasn_t_he_been_a_teacher">Hasn’t he been a teacher ?</string>
+    <string name="haven_t_they_been_members">Haven’t they been members?</string>
+    <string name="_5_the_past_perfect_tense_had_been">5 The Past Perfect Tense ( had been )</string>
+    <string name="he_had_been_a_thief">He had been a thief.</string>
+    <string name="they_had_been_members">They had been members.</string>
+    <string name="had_he_been_a_thief">Had he been a thief ?</string>
+    <string name="had_they_been_members">Had they been members ?</string>
+    <string name="he_had_not_hadn_t_been_a_thief">He had not (hadn’t ) been a thief.</string>
+    <string name="they_hadn_t_been_members">They hadn’t been members.</string>
+    <string name="hadn_t_he_been_a_thief">Hadn’t he been a thief ?</string>
+    <string name="verb_be">Verb \'Be\'</string>
+
+    <string name="positive_form">Positive Form</string>
+    <string name="positive_question">Positive Question</string>
+    <string name="negative_question">Negative Question</string>
+    <string name="negative_form">Negative Form</string>
+    <string name="hadn_t_they_been_members">Hadn\'t they been members?</string>
+
+    <string name="_6_the_future_perfect_tense_will_have_been">6 The Future perfect Tense ( will have been )</string>
+    <string name="he_will_have_been_a_doctor">He will have been a doctor.</string>
+    <string name="they_will_have_been_angry">They will have been angry.</string>
+    <string name="will_he_have_been_a_doctor">Will he have been a doctor ?</string>
+    <string name="will_they_have_been_angry">Will they have been angry ?</string>
+    <string name="he_will_not_won_t_have_been_a_doctor">He will not ( won’t ) have been a doctor.</string>
+    <string name="they_won_t_have_been_angry">They won’t have been angry.</string>
+    <string name="won_t_he_have_been_a_doctor">Won’t he have been a doctor ?</string>
+    <string name="won_t_they_have_been_angry">Won’t they have been angry ?</string>
+
+    <string name="_7_can_be">7 Can be</string>
+    <string name="you_can_be_happy">You can be happy.</string>
+    <string name="they_can_be_angry">They can be angry.</string>
+    <string name="can_you_be_happy">Can you be happy ?</string>
+    <string name="can_they_be_angry">Can they be angry ?</string>
+    <string name="you_can_t_be_happy">You can’t be happy.</string>
+    <string name="they_can_t_be_angry">They can’t be angry.</string>
+    <string name="can_t_you_be_happy">Can’t you be happy ?</string>
+    <string name="can_t_they_be_angry">Can’t they be angry ?</string>
+    <string name="_7_may_might_be">8 May / might be</string>
+    <string name="he_may_be_a_thief">He may be a thief.</string>
+    <string name="they_might_be_popular">They might be popular.</string>
+    <string name="_8_should_ought_to_be">9 Should / ought to be</string>
+    <string name="you_should_be_honest">You should be honest.</string>
+    <string name="they_should_be_good_citizens">They should be good citizens.</string>
+    <string name="_10_must_be">10 Must be</string>
+    <string name="you_must_be_honest">You must be honest.</string>
+    <string name="we_must_be_grateful">We must be grateful.</string>
+    <string name="wh_question1">Wh Questions</string>
+    <string name="question_tags">Question Tags</string>
+
+    <string name="reported_speech">Reported Speech</string>
+    <string name="when_do_we_use_reported_speech">When do we use reported speech?</string>
+    <string name="sometimes_someone_says_a_sentence_for_example_i_m_going_to_the_cinema_tonight_later_maybe_we_want_to_tell_someone_else_what_the_first_person_said">Sometimes someone says a sentence,  </string>
+    <string name="for_example_i_m_going_to_the_cinema_tonight">for example "I'm going to the cinema tonight".</string>
+    <string name="later_maybe_we_want_to_tell_someone_else_what">Later, maybe we want to tell someone else what</string>
+    <string name="the_first_person_said">the first person said.</string>
+    <string name="eg">Eg:-</string>
+    <string name="direct_speech_i_like_ice_cream">Direct speech: I like ice cream.</string>
+    <string name="reported_speech_she_says_that_she_likes_ice_cream">Reported speech: She said (that) she liked ice cream.</string>
+
+</resources>

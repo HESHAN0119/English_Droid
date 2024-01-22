@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.exhera.englishdroid">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EnglishDroid">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3532725936688615~3429837258"/>
+
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.Report"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.WhQuestion"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.Preposition"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.VerbAll.do_verb"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.VerbAll.have"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.VerbAll.Verb_be_two"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.VerbAll.Verb_be"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.VerbAll.Verb"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.PassiveVoice.Passive_Voice"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.TensesAll.Tenses_twel"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Grammar.Tenses"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.ShortNote.ShortNoteDownload"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.ForgetPasswprdActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.OCR.OcrActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.FindPP.FindPp"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Translator.Translator"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.ShortNote.ShortNote_update"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.ShortNote.ShortNote_view"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.ShortNote.ShortNote_add"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Dictionary.Dictionary_update"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Dictionary.Dictionary_view"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.Dictionary.Dictionary_add"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.CreateAccountActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.exhera.englishdroid.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

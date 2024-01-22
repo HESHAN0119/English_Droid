@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398823414910",
+    "project_id": "english-droid",
+    "storage_bucket": "english-droid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398823414910:android:8b764443ce2ab751694c2f",
+        "android_client_info": {
+          "package_name": "com.exhera.englishdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398823414910-qf307ufjfdsgevj6h74ghdk4r1fhr965.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQhJy95y6t_eDiVgSt1OJGZfJt1hRFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398823414910-qf307ufjfdsgevj6h74ghdk4r1fhr965.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

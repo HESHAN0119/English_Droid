@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/addImage"
+        android:title="Add Image"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_image"/>
+
+    <item android:id="@+id/sent_dict"
+        android:title="Send text to Dictionary"/>
+
+    <item android:id="@+id/sent_sNote"
+        android:title="send text to Short note"/>
+
+    <item android:id="@+id/clipboard_copy"
+        android:title="Copy to clipboard"/>
+
+</menu>

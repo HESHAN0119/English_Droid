@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable-anydpi/ic_action_image.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable-xxhdpi/buttonCorner.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable-xxhdpi/ic_create_account_box_24.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/button_border.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/edit_text_border.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_add_image.xml" value="0.1535" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_add_verd.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_android_large_bg.xml" value="0.75" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.215" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_baseline_preview_24.xml" value="0.159" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_bg_android_large.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_bgrect_light.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_curve_line.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_findpp.xml" value="0.1" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_findppnew.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_logo.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_menu.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_mic.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_ocr.xml" value="0.151" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_ocr_recognition_1.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_ocr_trans.xml" value="0.1515" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_passive.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_right_arrow.xml" value="0.1" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_simple_shiny_bg.xml" value="0.1445" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_svg_coppy.xml" value="0.159" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_tenses_icon.xml" value="0.1475" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_translator.xml" value="0.1" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_verb.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_wave.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/drawable/ic_wave__4_.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_create_account.xml" value="0.33" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_dictioanry_view.xml" value="0.22" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_dictionary_add.xml" value="0.1956521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_dictionary_update.xml" value="0.2368659420289855" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_do_verb.xml" value="0.1781706902414145" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_find_pp.xml" value="0.25" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_forget_passwprd.xml" value="0.23369565217391305" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_have.xml" value="0.20373250388802489" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_ocr.xml" value="0.24456521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_passive_voice.xml" value="0.25416666666666665" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_preposition.xml" value="0.18" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_report.xml" value="0.25" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_reported_speech.xml" value="0.13272543059777103" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_short_note_add.xml" value="0.24456521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_short_note_download.xml" value="0.2554347826086957" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_short_note_update.xml" value="0.25181159420289856" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_short_note_view.xml" value="0.25181159420289856" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_tenses.xml" value="0.25" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_tenses_twel.xml" value="0.26222826086956524" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_translator.xml" value="0.2646755921730175" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_verb.xml" value="0.25271739130434784" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_verb_be.xml" value="0.21809588116137746" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_verb_be_two.xml" value="0.25271739130434784" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/activity_wh_question.xml" value="0.2076069730586371" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/dictionary_row.xml" value="0.1956521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/rounded_border_edittext.xml" value="0.24456521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/shortnote_row.xml" value="0.24456521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/layout/spinner_item.xml" value="0.24456521739130435" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/menu/menu_ocr.xml" value="0.27291666666666664" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/menu/menu_zoom.xml" value="0.27291666666666664" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.152" />
+        <entry key="..\:/Apps/X hera technologies/English Droid 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
